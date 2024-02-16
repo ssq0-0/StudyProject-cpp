@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/resources"/>
+    <qresource prefix="/">
+        <file>style.css</file>
+        <file>mainStyle.css</file>
+        <file>storageStyle.css</file>
+        <file>lkStyle.css</file>
+    </qresource>
+</RCC>
